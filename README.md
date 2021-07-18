@@ -12,7 +12,5 @@ Instructions to test our website on local server
 
 8. Our Site is ready to go
 
-In case the bot doesnot appear online while testing pls contact us . beacuase it is not feasible for us to keep it online 24 * 7
-to know commands for bot use !help
 
 Thank you for this wonderful opportunity which allowed us to learn and implement the same as well 

@@ -5,9 +5,9 @@
  define('DB_SERVER', 'localhost');
  define('DB_USERNAME', 'root');
  define('DB_PASSWORD', '');
- define('DB_NAME', 'contactus');
+ define('DB_NAME', 'login');
 
- $conn = mysqli_connect("localhost", "root", "", "contactus");
+ $conn = mysqli_connect("localhost", "root", "", "login");
 if(!$conn){
     echo "<h3>Not able to establish Database Connection<h3>";
   }
